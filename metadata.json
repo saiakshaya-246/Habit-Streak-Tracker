@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "A fully featured 30-day habit tracker with streaks, dynamic statistics, categories, and localStorage support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
